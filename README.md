@@ -8,7 +8,7 @@ This project is an example that was built along with a journey of studies showin
 * Numpy for the management of arrays which contains our data
 * Variables
 
-Moreover, this project also demonstrates the core steps before getting the real data from a data table to use for training our Machile Learning model such as Linear Regression checking if the sales predicted by our ML model were correspondent with the actual sales made.
+Moreover, this project also demonstrates the core steps before getting the real data from a data table to use for training our Machile Learning model such as Linear Regression checking if the actual sales were correspondent with the predicted sales done by our ML.
 
 ## Environment
 One of the easiest Python environment you will find, it is Google Collab. An environment prepared to code in Python and R, in addition to being very intuitive and customizable environment.
