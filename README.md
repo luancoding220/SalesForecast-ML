@@ -12,6 +12,7 @@ Moreover, this project also demonstrates the core steps before getting the real 
 
 ## Environment
 One of the easiest Python environment you will find, it is Google Collab. An environment prepared to code in Python and R, in addition to being very intuitive and customizable environment.
+
 You can check here: https://colab.research.google.com/
 * Click the link above
 * Sign in with your google account
